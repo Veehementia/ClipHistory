@@ -1,0 +1,21 @@
+/* Status menu */
+"ClipHistory needs Accessibility access to paste" = "ClipHistory richiede l'accesso Accessibilità per incollare";
+"Allow in System Settings…" = "Consenti in Impostazioni di Sistema…";
+"Reset Permission and Ask Again" = "Reimposta il permesso e chiedi di nuovo";
+"Use this if ClipHistory is already on in System Settings but still asks for access." = "Usalo se ClipHistory è già attivo in Impostazioni di Sistema ma chiede ancora l'accesso.";
+"Another app is already using ⌥V" = "Un'altra app sta già usando ⌥V";
+"Show Clipboard History" = "Mostra cronologia appunti";
+"Clear History" = "Cancella cronologia";
+"Open at Login" = "Apri al login";
+"Quit ClipHistory" = "Esci da ClipHistory";
+
+/* Picker */
+"Nothing copied yet" = "Non hai ancora copiato niente";
+"Image, %d × %d" = "Immagine, %d × %d";
+"%@ and %d more" = "%@ e altri %d";
+
+/* Missing access alert */
+"ClipHistory can't paste without Accessibility access" = "ClipHistory non può incollare senza l'accesso Accessibilità";
+"The item is on the clipboard, so ⌘V pastes it. If ClipHistory is already on in System Settings, that permission was for an earlier build: ask again and turn it on once more." = "L'elemento è negli appunti, quindi ⌘V lo incolla. Se ClipHistory è già attivo in Impostazioni di Sistema, quel permesso era per una versione precedente: chiedi di nuovo e riattivalo.";
+"Ask for Access Again" = "Chiedi di nuovo l'accesso";
+"Not Now" = "Non ora";
